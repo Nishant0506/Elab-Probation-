@@ -1,0 +1,200 @@
+Month,AustralianPort,ForeignPort,Country,Passengers_In,Freight_In_(tonnes),Mail_In_(tonnes),Passengers_Out,Freight_Out_(tonnes),Mail_Out_(tonnes),Passengers_Total,Freight_Total_(tonnes),Mail_Total_(tonnes),Year,Month_num
+Jan-85,Adelaide,Auckland,New Zealand,1513,42.167,0.311,985,18.704,0.924,2498,60.871,1.235,1985,1
+Jan-85,Adelaide,Bahrain,Bahrain,12,0,0,5,0.033,0,17,0.033,0,1985,1
+Jan-85,Adelaide,Bombay,India,7,0,0,5,0,0,12,0,0,1985,1
+Jan-85,Adelaide,Frankfurt,Germany,115,0.009,0,171,0,0.248,286,0.009,0.248,1985,1
+Jan-85,Adelaide,London,UK,1567,2.8,0,1472,10.618,2.487,3039,13.418,2.487,1985,1
+Jan-85,Adelaide,Muscat,Oman,17,0,0,14,0.1,0,31,0.1,0,1985,1
+Jan-85,Adelaide,Rome,Italy,79,0.005,0,44,0,0,123,0.005,0,1985,1
+Jan-85,Adelaide,Singapore,Singapore,2496,37.345,0,2037,133.203,0.112,4533,170.548,0.112,1985,1
+Jan-85,Brisbane,Abu Dhabi,United Arab Emirates,0,0,0,3,0,0,3,0,0,1985,1
+Jan-85,Brisbane,Auckland,New Zealand,7157,223.258,0.671,5652,33.032,3.218,12809,256.29,3.889,1985,1
+Jan-85,Brisbane,Bahrain,Bahrain,12,0,0,15,0.149,0,27,0.149,0,1985,1
+Jan-85,Brisbane,Bangkok,Thailand,623,7.746,0,414,3.995,0,1037,11.741,0,1985,1
+Jan-85,Brisbane,Bombay,India,55,0,0,34,0.002,0.083,89,0.002,0.083,1985,1
+Jan-85,Brisbane,Christchurch,New Zealand,3148,132.129,0.256,2057,13.745,0,5205,145.874,0.256,1985,1
+Jan-85,Brisbane,Frankfurt,Germany,122,0,0,161,0.021,0.677,283,0.021,0.677,1985,1
+Jan-85,Brisbane,Hong Kong,Hong Kong,1911,9.352,0,1163,38.95,0.014,3074,48.302,0.014,1985,1
+Jan-85,Brisbane,Honiara,Solomon Islands,574,3.227,0,578,12.322,0,1152,15.549,0,1985,1
+Jan-85,Brisbane,Honolulu,USA,447,6.618,0,207,0.433,0,654,7.051,0,1985,1
+Jan-85,Brisbane,Kuala Lumpur,Malaysia,45,0.1,0,38,0.1,0,83,0.2,0,1985,1
+Jan-85,Brisbane,London,UK,1753,4.3,0,1449,1.861,3.454,3202,6.161,3.454,1985,1
+Jan-85,Brisbane,Los Angeles,USA,57,2.796,0,0,0,0,57,2.796,0,1985,1
+Jan-85,Brisbane,Manila,Philippines,1095,3.911,0,710,12.12,0.127,1805,16.031,0.127,1985,1
+Jan-85,Brisbane,Muscat,Oman,4,0,0,0,0,0,4,0,0,1985,1
+Jan-85,Brisbane,Nadi,Fiji,809,4.12,0,530,4.914,0,1339,9.034,0,1985,1
+Jan-85,Brisbane,Noumea,New Caledonia,384,0.248,0,247,0.167,0,631,0.415,0,1985,1
+Jan-85,Brisbane,Port Moresby,Papua New Guinea,2011,20.256,0.448,1917,33.194,2.643,3928,53.45,3.091,1985,1
+Jan-85,Brisbane,Port Vila,Vanuatu,459,0.365,0,228,2.735,0,687,3.1,0,1985,1
+Jan-85,Brisbane,Rome,Italy,38,0,0,34,0.012,0.113,72,0.012,0.113,1985,1
+Jan-85,Brisbane,San Francisco,USA,458,0,0,315,1.716,1.538,773,1.716,1.538,1985,1
+Jan-85,Brisbane,Singapore,Singapore,2730,38.395,0,1863,63.976,0.221,4593,102.371,0.221,1985,1
+Jan-85,Brisbane,Suva,Fiji,53,0.303,0,76,0.034,0,129,0.337,0,1985,1
+Jan-85,Brisbane,Tokyo,Japan,536,4.085,0,384,4.713,0.212,920,8.798,0.212,1985,1
+Jan-85,Brisbane,Vancouver,Canada,142,0.937,0,86,0.502,0.467,228,1.439,0.467,1985,1
+Jan-85,Brisbane,Wellington,New Zealand,1244,40.824,0.279,1017,9.757,0.366,2261,50.581,0.645,1985,1
+Jan-85,Cairns,Honolulu,USA,270,0.118,0,161,0.431,0,431,0.549,0,1985,1
+Jan-85,Cairns,Los Angeles,USA,22,0,0,0,0,0,22,0,0,1985,1
+Jan-85,Cairns,Port Moresby,Papua New Guinea,995,0.747,0,937,10.186,0,1932,10.933,0,1985,1
+Jan-85,Cairns,San Francisco,USA,314,0,0,190,1.124,0,504,1.124,0,1985,1
+Jan-85,Cairns,Vancouver,Canada,82,0.454,0,41,0.002,0,123,0.456,0,1985,1
+Jan-85,Darwin,Auckland,New Zealand,379,5.529,0,108,0.209,0.031,487,5.738,0.031,1985,1
+Jan-85,Darwin,Bahrain,Bahrain,0,0,0,5,0,0,5,0,0,1985,1
+Jan-85,Darwin,Bandar Seri Begawan,Brunei,368,0.187,0,230,1.802,0,598,1.989,0,1985,1
+Jan-85,Darwin,Bombay,India,0,0,0,5,0,0,5,0,0,1985,1
+Jan-85,Darwin,Denpasar,Indonesia,846,0.732,0,581,0,0,1427,0.732,0,1985,1
+Jan-85,Darwin,Frankfurt,Germany,0,0,0,58,0,0.013,58,0,0.013,1985,1
+Jan-85,Darwin,Jakarta,Indonesia,36,0.136,0,57,0.05,0,93,0.186,0,1985,1
+Jan-85,Darwin,London,UK,163,0,0,80,0.075,0.078,243,0.075,0.078,1985,1
+Jan-85,Darwin,Rome,Italy,0,0,0,28,0.025,0.008,28,0.025,0.008,1985,1
+Jan-85,Darwin,Singapore,Singapore,1150,7.058,0.002,685,0.815,0.031,1835,7.873,0.033,1985,1
+Jan-85,Hobart,Christchurch,New Zealand,903,7.338,0.086,886,0.669,0.009,1789,8.007,0.095,1985,1
+Jan-85,Melbourne,Abu Dhabi,United Arab Emirates,19,0,0,0,0,0,19,0,0,1985,1
+Jan-85,Melbourne,Amsterdam,Netherlands,924,11.689,0.429,565,1.857,3.24,1489,13.546,3.669,1985,1
+Jan-85,Melbourne,Athens,Greece,1753,21.253,2.337,904,1.222,1.791,2657,22.475,4.128,1985,1
+Jan-85,Melbourne,Auckland,New Zealand,6039,200.015,0.799,5328,155.065,3.726,11367,355.08,4.525,1985,1
+Jan-85,Melbourne,Bahrain,Bahrain,89,0.054,0,28,9.694,1.063,117,9.748,1.063,1985,1
+Jan-85,Melbourne,Bandar Seri Begawan,Brunei,73,0,0,53,8,0,126,8,0,1985,1
+Jan-85,Melbourne,Bangkok,Thailand,2449,76.724,0.009,1862,132.688,0.409,4311,209.412,0.418,1985,1
+Jan-85,Melbourne,Beijing,China,544,2.127,0,496,0.48,0,1040,2.607,0,1985,1
+Jan-85,Melbourne,Belgrade,Yugoslavia,1306,37.979,0,797,0.666,0.168,2103,38.645,0.168,1985,1
+Jan-85,Melbourne,Bombay,India,220,7.737,0.358,258,1.262,0.359,478,8.999,0.717,1985,1
+Jan-85,Melbourne,Christchurch,New Zealand,3336,98.851,0.619,3193,42.301,0.976,6529,141.152,1.595,1985,1
+Jan-85,Melbourne,Colombo,Sri Lanka,198,0.438,0,128,2.989,0,326,3.427,0,1985,1
+Jan-85,Melbourne,Denpasar,Indonesia,3860,3.737,0,2578,0.062,0,6438,3.799,0,1985,1
+Jan-85,Melbourne,Dubai,United Arab Emirates,19,0.072,0,27,150.827,0,46,150.899,0,1985,1
+Jan-85,Melbourne,Frankfurt,Germany,1254,539.258,3.456,956,210.632,4.378,2210,749.89,7.834,1985,1
+Jan-85,Melbourne,Hong Kong,Hong Kong,6456,167.102,0.505,4287,305.274,2.148,10743,472.376,2.653,1985,1
+Jan-85,Melbourne,Honolulu,USA,2546,12.515,0,1266,32.612,0.21,3812,45.127,0.21,1985,1
+Jan-85,Melbourne,Houston,USA,17,0,0,0,0,0,17,0,0,1985,1
+Jan-85,Melbourne,Jakarta,Indonesia,144,83.967,0.139,1331,135.274,0.255,1475,219.241,0.394,1985,1
+Jan-85,Melbourne,Kuala Lumpur,Malaysia,2816,119.461,0.56,2407,157.317,0.099,5223,276.778,0.659,1985,1
+Jan-85,Melbourne,Larnaca,Cyprus,23,0,0,0,0,0,23,0,0,1985,1
+Jan-85,Melbourne,London,UK,3167,142.407,0.274,2545,15.36,16.638,5712,157.767,16.912,1985,1
+Jan-85,Melbourne,Los Angeles,USA,2291,244.44,0,1770,166.153,0.168,4061,410.593,0.168,1985,1
+Jan-85,Melbourne,Manchester,UK,435,31.599,0,355,0.243,0,790,31.842,0,1985,1
+Jan-85,Melbourne,Manila,Philippines,2580,59.913,0,1780,43.518,0.15,4360,103.431,0.15,1985,1
+Jan-85,Melbourne,Mauritius,Mauritius,0,0,0,29,19.512,0,29,19.512,0,1985,1
+Jan-85,Melbourne,Muscat,Oman,166,0,0,143,47.6,0,309,47.6,0,1985,1
+Jan-85,Melbourne,Nadi,Fiji,2833,26.4,0.053,1846,57.065,1.209,4679,83.465,1.262,1985,1
+Jan-85,Melbourne,Nauru,Nauru,85,0.192,0,54,20.749,0,139,20.941,0,1985,1
+Jan-85,Melbourne,New York,USA,74,0.335,0,0,0,0,74,0.335,0,1985,1
+Jan-85,Melbourne,Noumea,New Caledonia,684,0.949,0,494,11.098,0.099,1178,12.047,0.099,1985,1
+Jan-85,Melbourne,Papeete,Tahiti,269,0.734,0,153,25.735,0,422,26.469,0,1985,1
+Jan-85,Melbourne,Port Vila,Vanuatu,176,0.019,0,123,8.258,0,299,8.277,0,1985,1
+Jan-85,Melbourne,Rome,Italy,1671,60.11,1.105,1314,13.317,1.253,2985,73.427,2.358,1985,1
+Jan-85,Melbourne,San Francisco,USA,1067,68.061,0,783,52.885,14.499,1850,120.946,14.499,1985,1
+Jan-85,Melbourne,Singapore,Singapore,8882,223.272,2.436,6430,588.709,2.612,15312,811.981,5.048,1985,1
+Jan-85,Melbourne,Tokyo,Japan,228,42.059,1.404,333,15.395,0.892,561,57.454,2.296,1985,1
+Jan-85,Melbourne,Vancouver,Canada,98,0,0,76,0.181,1.016,174,0.181,1.016,1985,1
+Jan-85,Melbourne,Wellington,New Zealand,2202,36.85,1.668,1595,33.977,2.231,3797,70.827,3.899,1985,1
+Jan-85,Norfolk Island,Auckland,New Zealand,367,9.708,0.288,546,0.12,0.122,913,9.828,0.41,1985,1
+Jan-85,Perth,Auckland,New Zealand,2279,52.959,0,1904,7.775,0,4183,60.734,0,1985,1
+Jan-85,Perth,Bahrain,Bahrain,25,0,0,30,13.84,0,55,13.84,0,1985,1
+Jan-85,Perth,Bangkok,Thailand,727,11.687,0,759,15.307,0.117,1486,26.994,0.117,1985,1
+Jan-85,Perth,Bombay,India,649,4.235,0,463,5.315,0.194,1112,9.55,0.194,1985,1
+Jan-85,Perth,Denpasar,Indonesia,2306,35.044,0,2842,5.222,0.044,5148,40.266,0.044,1985,1
+Jan-85,Perth,Frankfurt,Germany,131,0.044,0,205,0.163,0.329,336,0.207,0.329,1985,1
+Jan-85,Perth,Harare,Zimbabwe,382,0.798,0,333,2.864,0.073,715,3.662,0.073,1985,1
+Jan-85,Perth,Hong Kong,Hong Kong,2393,18.715,0,1939,117.437,0.152,4332,136.152,0.152,1985,1
+Jan-85,Perth,Honolulu,USA,0,0,0,60,0,0.003,60,0,0.003,1985,1
+Jan-85,Perth,Jakarta,Indonesia,622,0.865,0,391,87.307,0,1013,88.172,0,1985,1
+Jan-85,Perth,Johannesburg,South Africa,312,8.144,0,306,5.659,0,618,13.803,0,1985,1
+Jan-85,Perth,Kuala Lumpur,Malaysia,2087,47.131,0.094,2032,190.206,0.307,4119,237.337,0.401,1985,1
+Jan-85,Perth,London,UK,3146,8.717,4.975,2878,13.294,3.387,6024,22.011,8.362,1985,1
+Jan-85,Perth,Mauritius,Mauritius,52,0.153,0,41,0.062,0,93,0.215,0,1985,1
+Jan-85,Perth,Muscat,Oman,8,0,0,7,7,0,15,7,0,1985,1
+Jan-85,Perth,Rome,Italy,161,0.041,0.015,226,0.144,0.297,387,0.185,0.312,1985,1
+Jan-85,Perth,San Francisco,USA,0,0,0,147,0.069,1.198,147,0.069,1.198,1985,1
+Jan-85,Perth,Singapore,Singapore,7579,140.787,1.559,7201,883.042,0.467,14780,1023.829,2.026,1985,1
+Jan-85,Perth,Tokyo,Japan,55,3.004,0,35,13.661,0.262,90,16.665,0.262,1985,1
+Jan-85,Port Hedland,Denpasar,Indonesia,130,0,0,178,0,0,308,0,0,1985,1
+Jan-85,Sydney,Abu Dhabi,United Arab Emirates,328,0.1,0,105,36.9,0,433,37,0,1985,1
+Jan-85,Sydney,Amsterdam,Netherlands,1163,39.563,0.555,707,7.566,3.261,1870,47.129,3.816,1985,1
+Jan-85,Sydney,Apia,Western Samoa,411,0.687,0,327,2.101,0,738,2.788,0,1985,1
+Jan-85,Sydney,Athens,Greece,2131,37.21,1.924,995,2.933,1.573,3126,40.143,3.497,1985,1
+Jan-85,Sydney,Auckland,New Zealand,26722,1016.616,8.221,22056,576.93,39.621,48778,1593.546,47.842,1985,1
+Jan-85,Sydney,Bahrain,Bahrain,187,1.08,0.42,214,23.287,1.293,401,24.367,1.713,1985,1
+Jan-85,Sydney,Bandar Seri Begawan,Brunei,56,0.2,0,61,48.1,0,117,48.3,0,1985,1
+Jan-85,Sydney,Bangkok,Thailand,2576,58.329,0.522,2388,129.661,1.08,4964,187.99,1.602,1985,1
+Jan-85,Sydney,Beijing,China,1226,15.075,0.177,1095,2.67,0.007,2321,17.745,0.184,1985,1
+Jan-85,Sydney,Belgrade,Yugoslavia,1682,43.881,0.864,937,1.666,0.116,2619,45.547,0.98,1985,1
+Jan-85,Sydney,Bombay,India,1335,46.492,0.431,1103,13.67,1.141,2438,60.162,1.572,1985,1
+Jan-85,Sydney,Christchurch,New Zealand,9076,292.101,2.285,7103,59.586,2.903,16179,351.687,5.188,1985,1
+Jan-85,Sydney,Colombo,Sri Lanka,178,1.184,0,165,4.759,0,343,5.943,0,1985,1
+Jan-85,Sydney,Denpasar,Indonesia,3022,38.938,0,2636,0.107,0.033,5658,39.045,0.033,1985,1
+Jan-85,Sydney,Dubai,United Arab Emirates,78,0.065,0,190,73.821,0,268,73.886,0,1985,1
+Jan-85,Sydney,Frankfurt,Germany,1509,125.451,3.8,1502,28.146,7.199,3011,153.597,10.999,1985,1
+Jan-85,Sydney,Guangzhou,China,659,0.942,0,634,1.219,0,1293,2.161,0,1985,1
+Jan-85,Sydney,Harare,Zimbabwe,833,2.948,0,831,4.796,0.196,1664,7.744,0.196,1985,1
+Jan-85,Sydney,Hong Kong,Hong Kong,10124,228.641,0.969,6436,368.354,3.482,16560,596.995,4.451,1985,1
+Jan-85,Sydney,Honolulu,USA,7466,102.89,0,3796,39.156,0.719,11262,142.046,0.719,1985,1
+Jan-85,Sydney,Houston,USA,62,0,0,0,0,0,62,0,0,1985,1
+Jan-85,Sydney,Jakarta,Indonesia,2493,115.342,0.814,2688,75.923,0.521,5181,191.265,1.335,1985,1
+Jan-85,Sydney,Johannesburg,South Africa,861,13.529,0,880,15.37,0,1741,28.899,0,1985,1
+Jan-85,Sydney,Kuala Lumpur,Malaysia,2679,87.41,1.023,2478,214.535,0.545,5157,301.945,1.568,1985,1
+Jan-85,Sydney,Larnaca,Cyprus,34,0,0,0,0,0,34,0,0,1985,1
+Jan-85,Sydney,London,UK,5823,358.724,1.531,4864,68.781,20.61,10687,427.505,22.141,1985,1
+Jan-85,Sydney,Los Angeles,USA,6640,884.583,0.01,5709,214.287,0.352,12349,1098.87,0.362,1985,1
+Jan-85,Sydney,Manchester,UK,498,11.682,0,484,0.447,0.276,982,12.129,0.276,1985,1
+Jan-85,Sydney,Manila,Philippines,4003,207.971,0.233,2522,59.598,1.252,6525,267.569,1.485,1985,1
+Jan-85,Sydney,Mauritius,Mauritius,171,6.713,0,120,1.463,0,291,8.176,0,1985,1
+Jan-85,Sydney,Muscat,Oman,204,0.3,0,167,29.4,0,371,29.7,0,1985,1
+Jan-85,Sydney,Nadi,Fiji,7553,30.004,0,5400,155.083,0.176,12953,185.087,0.176,1985,1
+Jan-85,Sydney,Nauru,Nauru,76,0.02,0,42,3.247,0,118,3.267,0,1985,1
+Jan-85,Sydney,New York,USA,251,3.615,0,0,0,0,251,3.615,0,1985,1
+Jan-85,Sydney,Noumea,New Caledonia,2581,25.454,0.199,1769,79.948,0.224,4350,105.402,0.423,1985,1
+Jan-85,Sydney,Papeete,Tahiti,1256,14.867,0.152,1289,11.817,0.791,2545,26.684,0.943,1985,1
+Jan-85,Sydney,Paris,France,497,1.285,0,351,18.694,0,848,19.979,0,1985,1
+Jan-85,Sydney,Port Moresby,Papua New Guinea,2562,34.436,2.313,2560,89.331,8.974,5122,123.767,11.287,1985,1
+Jan-85,Sydney,Port Vila,Vanuatu,1215,0.729,0,870,0,0,2085,0.729,0,1985,1
+Jan-85,Sydney,Rome,Italy,1886,57.14,2.877,1423,24.894,1.593,3309,82.034,4.47,1985,1
+Jan-85,Sydney,San Francisco,USA,3277,150.35,0,2827,85.575,26.559,6104,235.925,26.559,1985,1
+Jan-85,Sydney,Singapore,Singapore,13422,288.891,6.384,10477,576.498,4.326,23899,865.389,10.71,1985,1
+Jan-85,Sydney,Tokyo,Japan,5949,313.35,15.19,5993,185.748,5.289,11942,499.098,20.479,1985,1
+Jan-85,Sydney,Vancouver,Canada,1515,15.097,0,1138,28.574,1.216,2653,43.671,1.216,1985,1
+Jan-85,Sydney,Wellington,New Zealand,4562,93.405,2.959,3675,55.629,6.358,8237,149.034,9.317,1985,1
+Jan-85,Townsville,Auckland,New Zealand,824,15.041,0,472,3.316,0,1296,18.357,0,1985,1
+Jan-85,Townsville,Bahrain,Bahrain,0,0,0,1,0.216,0,1,0.216,0,1985,1
+Jan-85,Townsville,Frankfurt,Germany,0,0,0,36,0,0,36,0,0,1985,1
+Jan-85,Townsville,London,UK,125,0,0,121,0.729,0,246,0.729,0,1985,1
+Jan-85,Townsville,Rome,Italy,0,0,0,19,0,0,19,0,0,1985,1
+Jan-85,Townsville,Singapore,Singapore,409,0.597,0,341,5.152,0,750,5.749,0,1985,1
+Feb-85,Adelaide,Auckland,New Zealand,914,81.12,0.31,921,37.071,0.95,1835,118.191,1.26,1985,2
+Feb-85,Adelaide,Bahrain,Bahrain,4,0,0,15,0,0,19,0,0,1985,2
+Feb-85,Adelaide,Bombay,India,6,0,0,2,0.018,0,8,0.018,0,1985,2
+Feb-85,Adelaide,Frankfurt,Germany,235,0.021,0,146,0,0.244,381,0.021,0.244,1985,2
+Feb-85,Adelaide,London,UK,1092,1.8,0,1099,24.393,2.257,2191,26.193,2.257,1985,2
+Feb-85,Adelaide,Muscat,Oman,4,0,0,4,1.4,0,8,1.4,0,1985,2
+Feb-85,Adelaide,Rome,Italy,86,0.084,0,80,0,0,166,0.084,0,1985,2
+Feb-85,Adelaide,Singapore,Singapore,1919,60.058,0.2,1288,209.707,0.103,3207,269.765,0.303,1985,2
+Feb-85,Brisbane,Abu Dhabi,United Arab Emirates,0,0,0,63,1.2,0,63,1.2,0,1985,2
+Feb-85,Brisbane,Auckland,New Zealand,3713,247.356,1.096,4909,71.973,2.345,8622,319.329,3.441,1985,2
+Feb-85,Brisbane,Bahrain,Bahrain,12,0,0,3,1.144,0,15,1.144,0,1985,2
+Feb-85,Brisbane,Bangkok,Thailand,398,12.786,0,422,5.402,0,820,18.188,0,1985,2
+Feb-85,Brisbane,Bombay,India,53,0,0,26,0.001,0.091,79,0.001,0.091,1985,2
+Feb-85,Brisbane,Christchurch,New Zealand,1771,176.091,0.234,1799,25.624,0,3570,201.715,0.234,1985,2
+Feb-85,Brisbane,Frankfurt,Germany,144,0,0,138,0.026,0.595,282,0.026,0.595,1985,2
+Feb-85,Brisbane,Hong Kong,Hong Kong,1419,10.427,0,1107,35.911,0.011,2526,46.338,0.011,1985,2
+Feb-85,Brisbane,Honiara,Solomon Islands,369,1.582,0,370,11.865,0,739,13.447,0,1985,2
+Feb-85,Brisbane,Honolulu,USA,161,7.601,0,171,0.68,0,332,8.281,0,1985,2
+Feb-85,Brisbane,Kuala Lumpur,Malaysia,40,0.2,0,51,3.2,0,91,3.4,0,1985,2
+Feb-85,Brisbane,London,UK,932,41.118,0,1026,1.613,3.152,1958,42.731,3.152,1985,2
+Feb-85,Brisbane,Los Angeles,USA,57,5.789,0,0,0.009,0,57,5.798,0,1985,2
+Feb-85,Brisbane,Manila,Philippines,1210,6.705,0,640,16.588,0.132,1850,23.293,0.132,1985,2
+Feb-85,Brisbane,Muscat,Oman,3,0,0,0,0,0,3,0,0,1985,2
+Feb-85,Brisbane,Nadi,Fiji,501,3.027,0,445,3.569,0,946,6.596,0,1985,2
+Feb-85,Brisbane,Noumea,New Caledonia,170,0.608,0,247,1.219,0,417,1.827,0,1985,2
+Feb-85,Brisbane,Port Moresby,Papua New Guinea,1115,8.777,0.632,1744,40.84,3.378,2859,49.617,4.01,1985,2
+Feb-85,Brisbane,Port Vila,Vanuatu,131,0.273,0,178,4.842,0,309,5.115,0,1985,2
+Feb-85,Brisbane,Rome,Italy,60,0.014,0,37,0,0.112,97,0.014,0.112,1985,2
+Feb-85,Brisbane,San Francisco,USA,249,0.007,0,238,2.494,1.588,487,2.501,1.588,1985,2
+Feb-85,Brisbane,Singapore,Singapore,1881,58.206,0,1353,86.44,0.25,3234,144.646,0.25,1985,2
+Feb-85,Brisbane,Suva,Fiji,64,0.357,0,77,0.109,0,141,0.466,0,1985,2
+Feb-85,Brisbane,Tokyo,Japan,455,7.364,0,206,5.626,0.312,661,12.99,0.312,1985,2
+Feb-85,Brisbane,Vancouver,Canada,68,2.12,0,107,1.309,0.323,175,3.429,0.323,1985,2
+Feb-85,Brisbane,Wellington,New Zealand,504,44.219,0.238,607,18.183,0.444,1111,62.402,0.682,1985,2
+Feb-85,Cairns,Honolulu,USA,156,0.153,0,275,4.27,0,431,4.423,0,1985,2
+Feb-85,Cairns,Los Angeles,USA,22,0,0,0,0.073,0,22,0.073,0,1985,2
+Feb-85,Cairns,Port Moresby,Papua New Guinea,521,1.048,0,611,10.14,0,1132,11.188,0,1985,2
+Feb-85,Cairns,San Francisco,USA,248,0,0,289,0.333,0,537,0.333,0,1985,2
